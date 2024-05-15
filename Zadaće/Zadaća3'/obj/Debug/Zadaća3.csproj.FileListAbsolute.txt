@@ -1,0 +1,7 @@
+D:\GitHub\Zadaće\Zadaća3'\bin\Debug\Zadaća3'.exe.config
+D:\GitHub\Zadaće\Zadaća3'\bin\Debug\Zadaća3'.exe
+D:\GitHub\Zadaće\Zadaća3'\bin\Debug\Zadaća3'.pdb
+D:\GitHub\Zadaće\Zadaća3'\obj\Debug\Zadaća3.csproj.AssemblyReference.cache
+D:\GitHub\Zadaće\Zadaća3'\obj\Debug\Zadaća3.csproj.CoreCompileInputs.cache
+D:\GitHub\Zadaće\Zadaća3'\obj\Debug\Zadaća3'.exe
+D:\GitHub\Zadaće\Zadaća3'\obj\Debug\Zadaća3'.pdb
