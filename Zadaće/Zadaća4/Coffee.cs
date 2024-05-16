@@ -50,6 +50,7 @@ namespace Zadaća4
 
     public class Milk : CoffeeDecorator
     {
+        public const double price = 0.2;
         public Milk(ICoffee coffee) : base(coffee) 
         {
             this.coffee = coffee;
@@ -57,7 +58,7 @@ namespace Zadaća4
 
         public new double GetCost()
         {
-            return coffee.GetCost() + 0.2;
+            return coffee.GetCost() + price;
         }
 
         public new string GetDescription()
